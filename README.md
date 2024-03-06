@@ -1,7 +1,7 @@
 ### Hi 👋
 
-- 🌱 More than 20 years in the development of server desktop and mobile solutions
-- 🌱 Currently I am working on [AI](https://github.com/topics/artificial-intelligence), [ML](https://github.com/topics/machine-learning) and [VR](https://github.com/topics/virtual-reality) technology projects
+- ⚡ More than 20 years in the development of server desktop and mobile solutions
+- 💬 Currently I am working on [AI](https://github.com/topics/artificial-intelligence), [ML](https://github.com/topics/machine-learning) and [VR](https://github.com/topics/virtual-reality) technology projects
 - 🌱 I participate in the development of [open source](https://github.com/topics/open-source) projects, their architecture and infrastructure
 Projects that are not subject to NDA are collected here
 
